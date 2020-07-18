@@ -1,0 +1,5 @@
+main: com.shyndard.over2craft.teambattle.MainPlugin
+name: Teambattle
+version: "1.0.0"
+description: TeamBattle plugin
+author: shyndard
