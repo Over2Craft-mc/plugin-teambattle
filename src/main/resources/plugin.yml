@@ -3,3 +3,9 @@ name: Teambattle
 version: "1.0.0"
 description: TeamBattle plugin
 author: shyndard
+commands:
+   tb:
+      description: Teambattle's command
+      usage: /<command> <setspawn|setlives> <red|blue> [lives]
+      permission: teambattle.admin
+api-version: 1.16
